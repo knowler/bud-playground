@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "devDependencies": {
+    "@roots/bud": "^4.2.0",
+    "@roots/bud-babel": "^4.2.0",
+    "@roots/bud-cli": "^4.2.0",
+    "@roots/bud-react": "^4.2.0"
+  },
+  "dependencies": {
+    "@theme-ui/core": "^0.8.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "volta": {
+    "node": "16.2.0",
+    "yarn": "1.22.10"
+  }
+}
